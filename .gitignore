@@ -1,0 +1,9 @@
+# Compiled C++ binaries
+01-introduction-deep-learning-keras/exercises/ANN
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
