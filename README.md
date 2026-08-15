@@ -79,56 +79,51 @@ The repository follows a structured progression through five major stages.
 
 ```text
 ibm-deep-learning-engineering/
-│
 ├── 01-introduction-deep-learning-keras/
-│   ├── notebooks/
 │   ├── exercises/
 │   ├── experiments/
-│   └── README.md
-│
-├── 02-deep-learning-keras-tensorflow/
 │   ├── notebooks/
+│   └── README.md
+├── 02-deep-learning-keras-tensorflow/
 │   ├── cnn/
 │   ├── custom-models/
 │   ├── experiments/
-│   └── README.md
-│
-├── 03-neural-networks-pytorch/
 │   ├── notebooks/
-│   ├── tensors/
+│   └── README.md
+├── 03-neural-networks-pytorch/
 │   ├── autograd/
 │   ├── neural-networks/
+│   ├── notebooks/
+│   ├── tensors/
 │   ├── training/
 │   └── README.md
-│
 ├── 04-advanced-deep-learning-pytorch/
-│   ├── cnn/
-│   ├── transfer-learning/
 │   ├── autoencoders/
+│   ├── cnn/
 │   ├── gan/
-│   ├── transformers/
 │   ├── sequence-models/
+│   ├── transfer-learning/
+│   ├── transformers/
 │   └── README.md
-│
 ├── 05-ai-capstone/
 │   ├── data/
-│   ├── notebooks/
-│   ├── src/
-│   ├── models/
 │   ├── evaluation/
+│   ├── models/
+│   ├── notebooks/
 │   ├── results/
+│   ├── src/
 │   └── README.md
-│
 ├── assets/
 │   ├── architecture/
-│   ├── training-curves/
 │   ├── confusion-matrix/
-│   └── results/
-│
-├── requirements.txt
+│   ├── results/
+│   └── training-curves/
 ├── environment.yml
-└── README.md
+├── README.md
+└── requirements.txt
 ```
+
+> Folders currently hold placeholder `.gitkeep` files and will be populated as each course's notebooks and experiments are added.
 
 ---
 

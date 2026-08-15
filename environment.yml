@@ -1,0 +1,16 @@
+name: ibm-deep-learning-engineering
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - pip
+  - pip:
+      - torch
+      - torchvision
+      - tensorflow
+      - keras
